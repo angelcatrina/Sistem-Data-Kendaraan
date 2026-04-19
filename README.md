@@ -1,4 +1,4 @@
-# Sistem Manajemen Data Kendaraan (RESTful API)
+#  Sistem Manajemen Data Kendaraan (RESTful API)
 
 ## 📝 Deskripsi Proyek
 Sistem Data Kendaraan adalah aplikasi backend berbasis **RESTful API** yang dikembangkan menggunakan framework **FastAPI**. Sistem ini dirancang untuk mengelola data kendaraan secara terstruktur dengan relasi antar entitas (User, Merk, dan Kendaraan). Untuk menjamin keamanan data, sistem ini dilengkapi dengan fitur autentikasi berbasis **JWT (JSON Web Token)**.
@@ -79,8 +79,8 @@ sistem_kendaraan/
 
 1.  **Clone Repositori**
     ```bash
-   git clone https://github.com/angelcatrina/Sistem-Data-Kendaraan.git
-cd Sistem-Data-Kendaraan
+    git clone https://github.com/angelcatrina/Sistem-Data-Kendaraan.git
+    cd Sistem-Data-Kendaraan
     ```
 
 2.  **Install Dependensi**
@@ -97,3 +97,5 @@ cd Sistem-Data-Kendaraan
     Buka [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) di browser Anda untuk mencoba API langsung melalui **Swagger UI**.
 
 ---
+
+
