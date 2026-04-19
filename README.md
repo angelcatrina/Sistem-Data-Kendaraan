@@ -79,8 +79,8 @@ sistem_kendaraan/
 
 1.  **Clone Repositori**
     ```bash
-    git clone https://github.com/username/sistem_kendaraan.git
-    cd sistem_kendaraan
+   git clone https://github.com/angelcatrina/Sistem-Data-Kendaraan.git
+cd Sistem-Data-Kendaraan
     ```
 
 2.  **Install Dependensi**
